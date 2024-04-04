@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Steps to run
+- Install dependencies `npm install`
+- Run application in local environment `npm run dev`
