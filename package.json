@@ -6,7 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "lowcoder-sdk": "^2.4.0-beta",
+    "lowcoder-sdk": "^2.4.0-beta-1",
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0"
